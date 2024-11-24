@@ -17,7 +17,7 @@ This repository is a comprehensive collection of data visualization projects cre
 #### Dashboard 2
 ![[Tableau Dashboard 2](Image_Tableau_Dashboard_2.png)](https://github.com/pallavmarch/Power-BI-and-Tableau-Project-Files/blob/main/The%20Dashboard.png)
 
-![[Tableau Dashboard 3](https://github.com/pallavmarch/Power-BI-and-Tableau-Project-Files/blob/main/Image_Tableau_Dashboard_1.png)
+![[Tableau Dashboard 3](Image_Tableau_Dashboard_3.png)](https://github.com/pallavmarch/Power-BI-and-Tableau-Project-Files/blob/main/Image_Tableau_Dashboard_1.png)
 
 ## Usage
 ### Power BI
