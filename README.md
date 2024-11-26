@@ -8,7 +8,7 @@ This repository is a comprehensive collection of data visualization projects cre
 ## Screenshots
 ### Power BI Projects
 #### Project 1
-![[Power BI Project 1](Image_Power_BI_Project_1.png)](https://github.com/pallavmarch/Power-BI-and-Tableau-Project-Files/blob/main/Screenshot_23-11-2024_165720_app.powerbi.com.jpeg)
+![[Power BI Project 1](Image_Power_BI_Project_1.png)](https://github.com/pallavmarch/Power-BI-and-Tableau-Project-Files/blob/main/Power BI_dashboard_0.jpeg)
 
 
 ### Tableau Dashboards
